@@ -1,3 +1,4 @@
 # tmp
 
 foo
+bar
